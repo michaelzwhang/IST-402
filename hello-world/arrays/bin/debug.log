@@ -1,0 +1,644 @@
+[0829/002453.993:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/002453.993:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/002454.019:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.020:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.021:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.022:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.022:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.074:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/002454.075:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/002454.098:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0829/002454.152:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/002454.152:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/002454.228:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.228:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/002454.272:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/002454.272:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/002454.411:INFO:CONSOLE(7129)] "Uncaught TypeError: Cannot read property 'match' of null", source: file:///C:/Users/M/Desktop/syn/bin/ace/ace.js (7129)
+[0829/002924.065:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0829/143658.526:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/143658.527:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/143658.648:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.654:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.654:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.654:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.656:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.657:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.657:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.657:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.659:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.659:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143658.737:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/143658.737:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/143658.761:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0829/143658.853:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/143658.853:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/143659.025:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143659.025:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/143659.101:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/143659.101:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/143719.212:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0829/185335.093:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/185335.093:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/185335.137:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.138:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.138:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.138:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.139:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.140:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.141:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.141:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.242:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/185335.242:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/185335.268:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0829/185335.370:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/185335.370:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/185335.471:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.471:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/185335.568:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/185335.568:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/185335.928:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0829/212046.783:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/212046.783:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/212046.820:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.821:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.821:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.821:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.821:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.822:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.823:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.823:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.823:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.824:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.824:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212046.924:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/212046.924:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/212046.950:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0829/212047.067:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/212047.067:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/212047.145:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212047.145:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/212047.237:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/212047.237:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/212047.601:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0829/213751.302:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/213751.302:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/213751.334:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.335:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.335:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.335:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.336:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.338:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.338:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.451:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/213751.451:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/213751.477:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0829/213751.589:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/213751.590:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/213751.632:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.632:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0829/213751.728:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0829/213751.728:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0829/213752.055:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0829/220743.482:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220743.483:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220748.490:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220748.490:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220753.501:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220753.501:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220758.511:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220758.512:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220803.527:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220803.528:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220808.547:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220808.547:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220813.562:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220813.562:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.459:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.464:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.472:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.476:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.485:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.486:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.493:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.494:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.573:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220818.574:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220841.732:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220841.732:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220846.750:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220846.752:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220851.766:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0829/220851.768:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004437.908:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004437.908:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004442.915:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004442.915:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004447.928:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/004447.928:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0830/160422.784:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/160422.785:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/160422.882:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.886:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.886:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.886:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.888:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.891:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.891:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160422.957:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/160422.957:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/160422.987:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0830/160423.060:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/160423.060:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/160423.179:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160423.179:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/160423.236:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/160423.236:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/160423.758:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0830/233749.517:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/233749.518:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/233749.612:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.619:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.619:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.619:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.620:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.621:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.623:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.623:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.700:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/233749.700:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/233749.724:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0830/233749.826:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/233749.826:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/233749.999:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233749.999:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0830/233750.086:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0830/233750.086:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0830/233750.464:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0831/182256.259:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/182256.260:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/182256.376:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.381:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.381:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.381:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.382:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.383:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.385:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.385:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.488:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/182256.488:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/182256.530:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0831/182256.645:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/182256.645:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/182256.777:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.777:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/182256.866:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/182256.867:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/182257.422:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0831/190028.082:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0831/190028.083:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0831/193827.407:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/193827.407:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/193827.435:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.436:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.437:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.438:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.438:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.539:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/193827.540:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/193827.577:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0831/193827.718:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/193827.718:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/193827.774:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.774:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0831/193827.869:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0831/193827.869:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0831/193828.251:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0901/114938.617:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/114938.618:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/114938.700:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.704:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.704:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.704:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.705:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.706:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.707:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.707:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.758:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/114938.758:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/114938.776:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0901/114938.849:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/114938.849:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/114938.968:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114938.968:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/114939.024:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/114939.024:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/114939.284:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/syn/bin/Editor.html (67)
+[0901/124015.444:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/124015.445:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/124015.483:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.484:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.485:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.487:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.487:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.600:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/124015.600:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/124015.629:ERROR:viz_main_impl.cc(159)] Exiting GPU process due to errors during initialization
+[0901/124015.755:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/124015.756:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/124015.801:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.801:WARNING:resource_bundle.cc(1063)] locale resources are not loaded
+[0901/124015.905:WARNING:resource_bundle.cc(427)] locale_file_path.empty() for locale 
+[0901/124015.905:ERROR:main_delegate.cc(928)] Could not load locale pak for en-US
+[0901/124016.257:INFO:CONSOLE(67)] "Uncaught (in promise) TypeError: synServiceAsync.textChanged is not a function", source: file:///C:/Users/M/Desktop/hello-world/arrays/bin/Editor.html (67)
